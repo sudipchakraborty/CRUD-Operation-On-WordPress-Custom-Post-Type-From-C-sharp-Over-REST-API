@@ -1,0 +1,14 @@
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\bin\Debug\WordPress_Post.exe.config
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\bin\Debug\WordPress_Post.exe
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\bin\Debug\WordPress_Post.pdb
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.csproj.AssemblyReference.cache
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.frm_main.resources
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.Properties.Resources.resources
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.csproj.GenerateResource.cache
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.csproj.CoreCompileInputs.cache
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.csproj.CopyComplete
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.exe
+C:\Users\Dr. S Chakraborty\Desktop\CRUD-Operation-On-WordPress-Custom-Post-Type\WordPress_Post\obj\Debug\WordPress_Post.pdb
