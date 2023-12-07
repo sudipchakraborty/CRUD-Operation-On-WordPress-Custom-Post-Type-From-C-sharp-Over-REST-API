@@ -15,7 +15,7 @@ namespace WordPress_Post
     public partial class frm_main : Form
     {
         WordPress_Connect db=new WordPress_Connect();
-        WordPress_post wp = new WordPress_post();
+        WordPress_CPT wp = new WordPress_CPT();
         MSG msg;
 
         public frm_main()
@@ -34,7 +34,7 @@ namespace WordPress_Post
         {
             object obj = wp.Get_Read_obj();
             await  db.send(obj);
-            wp.Fill_DataGrid(db.str_response, dg_display);
+            wp.Fill_DataGrid2(db.str_response, dg_display);
            
         }
 
@@ -66,8 +66,15 @@ namespace WordPress_Post
 
         private async void btn_update_Click(object sender, EventArgs e)
         {
-            object obj = wp.Get_Update_data(txt_id.Text,txt_user_id.Text, txt_sys.Text, txt_dia.Text, txt_pul.Text);
+            object obj = wp.Get_Update_post_meta(txt_sys.Text, txt_id.Text, "sys");
             await db.send(obj);
+
+            obj = wp.Get_Update_post_meta(txt_dia.Text, txt_id.Text, "dia");
+            await db.send(obj);
+
+            obj = wp.Get_Update_post_meta(txt_pul.Text, txt_id.Text, "pul");
+            await db.send(obj);
+
             obj = wp.Get_Read_obj();
             await db.send(obj);
             wp.Fill_DataGrid(db.str_response, dg_display);

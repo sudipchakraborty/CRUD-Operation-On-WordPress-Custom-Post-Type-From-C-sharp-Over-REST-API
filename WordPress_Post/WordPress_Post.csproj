@@ -61,6 +61,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WordPress_Connect.cs" />
+    <Compile Include="WordPress_CPT.cs" />
     <Compile Include="WordPress_post.cs" />
     <EmbeddedResource Include="frm_main.resx">
       <DependentUpon>frm_main.cs</DependentUpon>

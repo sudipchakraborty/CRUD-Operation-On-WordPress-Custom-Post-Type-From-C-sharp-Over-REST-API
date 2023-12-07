@@ -12,7 +12,7 @@ namespace Tools
         public string Database="local";
         public String Uid="root";
         public String Pwd="root";
-        public String route= "http://bppost.local/wp-json/bp/v2";
+        public String route= "http://bppost.local/wp-json/bp/v3";
         public bool Connected = false;
         public string str_response = "";
 
